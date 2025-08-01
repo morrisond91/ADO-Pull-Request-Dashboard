@@ -1,0 +1,10 @@
+{
+  "azureDevOps": {
+    "organization": "OrganisationName",
+    "project": "ProjectName",
+    "personalAccessToken": ""
+  },
+  "defaultRepositories": [
+    "Example Project"
+  ]
+}

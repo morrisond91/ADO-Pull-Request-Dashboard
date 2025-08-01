@@ -43,6 +43,6 @@ A Node.js + React application for monitoring and managing Azure DevOps pull requ
 
 ## Usage
 
-- Open your browser to [http://localhost:3000](http://localhost:3000).
+- Open your browser to [http://localhost:4000](http://localhost:4000).
 - Use the gear icon to configure your Azure DevOps settings and repositories.
 - The dashboard will auto-refresh pull requests every 30 seconds.

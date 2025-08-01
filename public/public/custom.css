@@ -1,0 +1,33 @@
+body {
+  background: #f6f4fa;
+}
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #6f42c1;
+  margin-bottom: 0.5em;
+  letter-spacing: 0.5px;
+  border-bottom: 2px solid #e0d7f7;
+  padding-bottom: 0.25em;
+}
+.card-header.purple {
+  background: linear-gradient(90deg, #6f42c1 60%, #a084e8 100%);
+  color: #fff;
+}
+.btn-purple {
+  background: #6f42c1;
+  color: #fff;
+  border: none;
+}
+.btn-purple:hover, .btn-purple:focus {
+  background: #59359e;
+  color: #fff;
+}
+.accordion-button:not(.collapsed) {
+  color: #fff;
+  background-color: #6f42c1;
+}
+.accordion-button {
+  font-weight: 600;
+  color: #6f42c1;
+}
